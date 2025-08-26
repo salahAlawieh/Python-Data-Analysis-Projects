@@ -68,3 +68,37 @@ Each project demonstrates practical skills in **Python, Pandas, NumPy, Matplotli
 2. Navigate to a project folder: cd Python-Data-Analysis-Projects/ProjectX_FolderName
 3. Run the code: python main.py
 4. Optional: Run unit tests to verify results: python test_module.py
+
+## 4. Use Gitpod
+1. Run a project using Gitpod, append the Gitpod to the Github URL
+2. Install missing Libraries:
+pip install pandas numpy matplotlib seaborn scipy
+3. Run each project
+
+    # Project 1 – Demographic Data Analyzer
+    cd "Python-Data-Analysis-Projects/Demographic Data Analyzer"
+    python main.py
+    cd ../..
+
+    # Project 2 – Mean-Variance-Standard Deviation Calculator
+    cd "Python-Data-Analysis-Projects/Mean-Variance-Standard Deviation Calculator"
+    python main.py
+    cd ../..
+
+    # Project 3 – Medical Data Visualizer
+    cd "Python-Data-Analysis-Projects/Medical Data Visualizer"
+    python main.py
+    cd ../..
+
+    # Project 4 – Page View Time Series Visualizer
+    cd "Python-Data-Analysis-Projects/Page View Time Series Visualizer"
+    python main.py
+    cd ../..
+    
+    # Project 5 – Sea Level Predictor
+    cd "Python-Data-Analysis-Projects/Sea Level Predictor"
+    python main.py
+    cd ../..
+
+
+
